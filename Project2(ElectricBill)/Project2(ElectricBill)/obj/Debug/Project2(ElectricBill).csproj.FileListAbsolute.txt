@@ -1,0 +1,8 @@
+C:\Users\TZ\source\repos\Project2(ElectricBill)\Project2(ElectricBill)\bin\Debug\Project2(ElectricBill).exe.config
+C:\Users\TZ\source\repos\Project2(ElectricBill)\Project2(ElectricBill)\bin\Debug\Project2(ElectricBill).exe
+C:\Users\TZ\source\repos\Project2(ElectricBill)\Project2(ElectricBill)\bin\Debug\Project2(ElectricBill).pdb
+C:\Users\TZ\source\repos\Project2(ElectricBill)\Project2(ElectricBill)\obj\Debug\Project2(ElectricBill).csproj.AssemblyReference.cache
+C:\Users\TZ\source\repos\Project2(ElectricBill)\Project2(ElectricBill)\obj\Debug\Project2(ElectricBill).csproj.SuggestedBindingRedirects.cache
+C:\Users\TZ\source\repos\Project2(ElectricBill)\Project2(ElectricBill)\obj\Debug\Project2(ElectricBill).csproj.CoreCompileInputs.cache
+C:\Users\TZ\source\repos\Project2(ElectricBill)\Project2(ElectricBill)\obj\Debug\Project2(ElectricBill).exe
+C:\Users\TZ\source\repos\Project2(ElectricBill)\Project2(ElectricBill)\obj\Debug\Project2(ElectricBill).pdb
